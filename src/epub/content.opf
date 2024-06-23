@@ -50,14 +50,15 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh2008100157</meta>
 		<meta property="se:subject">Adventure</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">After a shipwreck, two surviving children are stranded on an island paradise, where they experience its bounties and resources, face the dangers of the natural world, and undergo their own maturation and romance.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p>After being shipwrecked in the South Pacific, cousins Dick and Emmeline Lestrange are stranded upon an island, filled with natural beauty and bountiful resources. With the guidance of the ship's cook, another survivor, they learn how to survive off the land, foregoing their civilized upbringing and adopting a more primitive way of life. Of course, with this environment and its pleasures come a great number of dangers, from animal attacks to weather hazards, and as Dick and Emmeline mature they experience one of the strongest forces of nature: love.<br/>
+			<br/>
+			Inspired by thoughts of how primitive man might have responded to natural wonders, <a href="https://standardebooks.org/ebooks/h-de-vere-stacpoole">H. de Vere Stacpoole</a> wrote <i>The Blue Lagoon</i>, publishing it in 1908, to a great amount of acclaim and praise for its captivating qualities, most of all the growth and development of Dick and Emmeline and their burgeoning romance. This adoration did not wane, with two sequel novels and a number of adaptations for stage and screen produced in the decades following its release.</p>
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/393</dc:source>
 		<dc:source>https://archive.org/details/bluelagoonromanc00stacrich/</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Blue_Lagoon</meta>

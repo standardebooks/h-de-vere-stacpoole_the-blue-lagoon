@@ -29,3 +29,13 @@ p span.i2{
 	padding-left: 3em;
 	text-indent: -1em;
 }
+
+figure{
+	break-inside: avoid;
+}
+
+figure img{
+	display: block;
+	margin: auto;
+	max-width: 100%;
+}

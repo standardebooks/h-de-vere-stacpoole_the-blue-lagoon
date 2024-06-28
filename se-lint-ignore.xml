@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-1-1-6.xhtml">
+		<ignore>
+			<code>t-002</code>
+			<reason>Quotation marks are being used to refer to a character's nickname, and as such punctuation does not fall within them.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-1-8.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>The title is a name being spelled out letter by letter, and does not require any titlecase adjustments.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-2-12.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>This is the title as it appears in the original publication. Changes may be made if necessary.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>

@@ -48,20 +48,16 @@ table[epub|type:"z3998:drama"]{
 	padding-left: 0;
 }
 
-[epub|type~="z3998:drama"] td[epub|type~="z3998:persona"]{}
+[epub|type~="z3998:drama"] td[epub|type~="z3998:persona"]{
+	hyphens: none;
+	-epub-hyphens: none;
+	text-align: right;
+	width: 20%;
+}
 
-[epub|type~="z3998:drama"] {}
-
-[epub|type~="z3998:drama"] {}
-
-[epub|type~="z3998:drama"] {}
-
-[epub|type~="z3998:drama"] {}
-
-[epub|type~="z3998:drama"] {}
-
-[epub|type~="z3998:drama"] {}
-
+[epub|type~="z3998:persona"]{
+	font-variant: all-small-caps;
+}
 
 p span.i1{
 	padding-left: 2em;
@@ -70,6 +66,11 @@ p span.i1{
 
 p span.i2{
 	padding-left: 3em;
+	text-indent: -1em;
+}
+
+p span.17{
+	padding-left: 8em;
 	text-indent: -1em;
 }
 

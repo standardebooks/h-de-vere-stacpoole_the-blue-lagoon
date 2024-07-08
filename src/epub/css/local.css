@@ -6,10 +6,6 @@
 	text-indent: 0;
 }
 
-[epub|type~="z3998:song"] p + p{
-	margin-top: 1em;
-}
-
 [epub|type~="z3998:song"] p > span{
 	display: block;
 	padding-left: 1em;
@@ -20,7 +16,6 @@
 	display: none;
 }
 
-[epub|type~="z3998:drama"] table,
 table[epub|type~="z3998:drama"]{
 	border-collapse: collapse;
 	margin: 1em auto;
@@ -61,11 +56,6 @@ table[epub|type~="z3998:drama"]{
 
 p span.i1{
 	padding-left: 2em;
-	text-indent: -1em;
-}
-
-p span.i2{
-	padding-left: 3em;
 	text-indent: -1em;
 }
 

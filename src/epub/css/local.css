@@ -20,6 +20,49 @@
 	display: none;
 }
 
+[epub|type~="z3998:drama"] table,
+table[epub|type:"z3998:drama"]{
+	border-collapse: collapse;
+	margin: 1em auto;
+	width: 100%;
+}
+
+[epub|type~="z3998:drama"] tr:first-child td{
+	padding-top: 0;
+}
+
+[epub|type~="z3998:drama"] tr:last-child td{
+	padding-bottom: 0;
+}
+
+[epub|type~="z3998:drama"] td{
+	padding: .5em;
+	vertical-align: top;
+}
+
+[epub|type~="z3998:drama"] td:last-child{
+	padding-right: 0;
+}
+
+[epub|type~="z3998:drama"] td:first-child{
+	padding-left: 0;
+}
+
+[epub|type~="z3998:drama"] td[epub|type~="z3998:persona"]{}
+
+[epub|type~="z3998:drama"] {}
+
+[epub|type~="z3998:drama"] {}
+
+[epub|type~="z3998:drama"] {}
+
+[epub|type~="z3998:drama"] {}
+
+[epub|type~="z3998:drama"] {}
+
+[epub|type~="z3998:drama"] {}
+
+
 p span.i1{
 	padding-left: 2em;
 	text-indent: -1em;

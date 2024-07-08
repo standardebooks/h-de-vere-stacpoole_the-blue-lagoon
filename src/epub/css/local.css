@@ -21,7 +21,7 @@
 }
 
 [epub|type~="z3998:drama"] table,
-table[epub|type:"z3998:drama"]{
+table[epub|type~="z3998:drama"]{
 	border-collapse: collapse;
 	margin: 1em auto;
 	width: 100%;
@@ -69,7 +69,7 @@ p span.i2{
 	text-indent: -1em;
 }
 
-p span.17{
+p span.i7{
 	padding-left: 8em;
 	text-indent: -1em;
 }

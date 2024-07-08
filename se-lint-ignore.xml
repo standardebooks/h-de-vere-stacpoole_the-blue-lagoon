@@ -12,10 +12,4 @@
 			<reason>The title is a name being spelled out letter by letter, and does not require any titlecase adjustments.</reason>
 		</ignore>
 	</file>
-	<file path="chapter-2-2-12.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>This is the title as it appears in the original publication. Changes may be made if necessary.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>

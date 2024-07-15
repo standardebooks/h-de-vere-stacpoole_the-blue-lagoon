@@ -62,7 +62,7 @@
 		<dc:source>https://archive.org/details/bluelagoonromanc00stacrich/</dc:source>
 		<meta property="se:word-count">63138</meta>
 		<meta property="se:reading-ease.flesch">77.87</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Blue_Lagoon</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Blue_Lagoon_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/h-de-vere-stacpoole_the-blue-lagoon</meta>
 		<dc:creator id="author">H. de Vere Stacpoole</dc:creator>
 		<meta property="file-as" refines="#author">Stacpoole, H. de Vere</meta>

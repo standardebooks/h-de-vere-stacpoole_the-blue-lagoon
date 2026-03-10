@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-1-1-8.xhtml">
 		<ignore code="s-023">
+			<line>12</line>
 			<reason>The title is a name being spelled out letter by letter, and does not require any titlecase adjustments.</reason>
 		</ignore>
 	</file>
